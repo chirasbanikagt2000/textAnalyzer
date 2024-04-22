@@ -7,7 +7,7 @@ SETTING UP THE APPLICATION:
 
 1.Clone the repository: Clone the github repository to the local machine using git clone command.
 
-2.Navigate to the project directory using cd to-do-list
+2.Navigate to the project directory using cd text-analyzer
 
 
 START THE APPLICATION:
